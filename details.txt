@@ -1,0 +1,4 @@
+  Host : "smtp.elasticemail.com",
+      Username : "trillionmagnetlogs@gmail.com",
+      Password : "FE32D27ADBE7E34FA3DBAEEE935B5E32F5F2",
+2525
